@@ -1,5 +1,5 @@
 <p align='center'>
-  <a href='#'><img src="https://user-images.githubusercontent.com/84760592/178123578-caf9e6b5-aa83-447b-a96e-1ef7c5dd00f3.png"></a>
+  <a href='#'><img src="https://user-images.githubusercontent.com/84760592/178123615-95e8397b-bea6-4011-be8e-81641fce1f99.png"></a>
 
 </p>
 
